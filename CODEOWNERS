@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @babswalex
+/src/backend/database.py      @babswalex
+/src/backend/routers/auth.py  @babswalex
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @babswalex
